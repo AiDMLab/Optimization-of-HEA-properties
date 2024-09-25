@@ -1,5 +1,6 @@
 # Optimization-of-HEA-properties
 
+
 Background:
 
 Although the multi-objective optimization algorithm based on machine learning (ML) prediction model has been applied to the collaborative optimization of HEA (high entropy alloy) properties, the problem of small number and imbalance of HEA coating samples that can be used for modeling still exists. To address this problem, improve the accuracy of ML prediction models and reveal the implicit relationship between process-composition-properties, we design a machine learning strategy driven collaborative optimization algorithm for hardness and toughness of high entropy alloy coatings. A Deheterogeneous conditional Generative Adversarial network (DGH-CGAN) considering the influence of composition and process differences was proposed to improve the prediction ability of the ML model. On this basis, a multi-objective optimization algorithm is used to optimize the hardness and elastic modulus of HEA coating to cope with the problem of performance antagonism.
